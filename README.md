@@ -25,16 +25,18 @@
 ---
 
 <!-- GIF -->
-<p align="center">
+<p align="left">
   <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="550px">
 </p>
 
 ---
 
 <!-- GitHub Stats -->
+<!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dafukf&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dafukf&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=dafukf&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dafukf&layout=compact&theme=tokyonight" width="424"/>
 </p>
 
 ---
