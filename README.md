@@ -20,21 +20,14 @@
 - 🐍 Certified in Python Essentials.
 - 📈 Constantly improving problem-solving skills and clean code practices.
 - 🌍 Fluent in English and open to international opportunities.
-  </details>
+      </details>
 
 <!-- Links -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dafukf/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-yohan-lima-950053334/)
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" width="550px">
-</p>
-
-<!-- GithubStats -->
-
-<div style="display:flex; gap: 10px">
+<div style="display:flex; gap: 10px; margin-top:26px">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dafukf&theme=tokyonight)
 
@@ -43,6 +36,13 @@
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dafukf&show_icons=true&theme=tokyonight)
 
 </div>
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" width="550px">
+</p>
+
+<!-- GithubStats -->
 
 <!-- Skills: Programming Languages -->
 <h3 align="left">💻 Tech Stack</h3>
