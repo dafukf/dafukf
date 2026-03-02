@@ -53,6 +53,14 @@
   <img height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </p>
 
+## 🐍 Snake das Contribuições
+
+<div align="center">
+
+![snake gif](https://github.com/dafukf/dafukf/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 <!-- Links -->
