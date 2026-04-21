@@ -1,79 +1,76 @@
-<!-- Título -->
 <h1 align="center">Hello World 👋</h1>
 
-<!-- Presentation -->
 <p align="center">
-💻 Technical student in Systems Development | Focused on Backend, Databases and building scalable solutions.
+  <i>💻 Technical student in Systems Development | Focused on Backend, Databases and building scalable solutions.</i>
 </p>
 
 ---
 
-<!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
-
-- 🎓 Systems Development student passionate about building real-world solutions.
-- 💻 Focused on Backend development and database design.
-- 🛠 Experience developing academic and personal projects using PHP, MySQL and JavaScript.
-- ☕ Currently learning Java and expanding knowledge in object-oriented programming.
-- 🐍 Certified in Python Essentials.
-- 📈 Constantly improving problem-solving skills and clean code practices.
-- 🌍 Fluent in English and open to international opportunities.
-
+  <summary><b>👨‍💻 More about me</b></summary>
+  <br>
+  <ul>
+    <li>🎓 <b>Systems Development</b> student passionate about building real-world solutions.</li>
+    <li>💻 Focused on <b>Backend development</b> and <b>database design</b>.</li>
+    <li>🛠 Experience developing academic and personal projects using <b>PHP, MySQL</b> and <b>JavaScript</b>.</li>
+    <li>☕ Currently learning <b>Java</b> and expanding knowledge in <b>object-oriented programming</b>.</li>
+    <li>🐍 Certified in <b>Python Essentials</b>.</li>
+    <li>📈 Constantly improving problem-solving skills and <b>clean code</b> practices.</li>
+    <li>🌍 Fluent in <b>English</b> and open to international opportunities.</li>
+  </ul>
 </details>
 
 ---
 
-<!-- GIF -->
-<p align="left">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="550px">
-</p>
-
----
-
-<!-- GitHub Stats -->
-<!-- GitHub Stats -->
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dafukf&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dafukf&layout=compact&theme=tokyonight" width="424"/>
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="600px">
 </p>
 
 ---
 
-<!-- Linguagens -->
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=dafukf&theme=tokyonight&hide_border=true" height="165"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dafukf&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
 <h3 align="center">🚀 Technologies</h3>
 
 <p align="center">
-  <img height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+  <img width="15" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
+  <img width="15" />
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img width="15" />
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img width="15" />
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  <img width="15" />
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
 </p>
 
-## 🐍 Snake das Contribuições
+---
+
+<h3 align="center">🐍 Snake das Contribuições</h3>
 
 <div align="center">
-
-![snake gif](https://github.com/dafukf/dafukf/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <img alt="snake gif" src="https://github.com/dafukf/dafukf/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 ---
 
-<!-- Links -->
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
-  <a href="https://instagram.com/dafukf">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://instagram.com/dafukf" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/davi-yohan-lima-950053334">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/davi-yohan-lima-950053334" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:davi.limar91@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:davi.limar91@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
