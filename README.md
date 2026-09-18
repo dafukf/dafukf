@@ -29,7 +29,9 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=dafukf&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafukf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most used languages">
+</p> <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dafukf&theme=tokyonight" height="165" alt="Languages by repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dafukf&theme=tokyonight" height="165" alt="Most used languages by commits">
 </p>
 
 ---
